@@ -1,10 +1,10 @@
+> Startup **fictícia** feita para atividade proposta aos residentes do Capacita iRede.
+
 # PetNuvem 🐾
 
 > **Cuidado e carinho para quem faz parte da família.**
 
 A **PetNuvem** é uma startup dedicada ao cuidado e bem-estar dos animais de estimação, oferecendo soluções práticas e acessíveis para tornar a vida dos pets e de seus tutores mais feliz. Com foco em carinho, segurança e qualidade de vida, a PetNuvem busca conectar tecnologia e cuidado, proporcionando serviços que facilitam a rotina e fortalecem o vínculo entre os animais e suas famílias.
-
-> startup fictícia feita para atividade proposta aos residentes do Capacita iRede. 
 
 ---
 
